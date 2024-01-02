@@ -5,6 +5,7 @@ body{
     background-size: 100% auto;
     width: 700px;
     height:700px;
+    overflow: hidden;
 }
  h2{
     margin-left: 950px;
@@ -26,7 +27,8 @@ body{
   div{
    margin-top: 50px;
   }
-  #footer{
-   padding: 10px;
+  p{
+   margin-top: 200px;
+   text-align: center;
+   margin-left: 500px;
   }
- 
