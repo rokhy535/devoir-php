@@ -1,0 +1,32 @@
+body{
+    background-image: url("tl10.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    width: 700px;
+    height:700px;
+}
+ h2{
+    margin-left: 950px;
+ }
+ h1{
+    text-align: center;
+    box-shadow: 10px 10px 10px red;
+    text-shadow: 2px 2px 4px  black;
+ }
+ h3{
+    margin-left: 100px;
+    color: blue;
+    margin-top: 100px;
+ }
+ nav{
+   margin-left: 500px;
+   font-weight: bold;
+ }
+  div{
+   margin-top: 50px;
+  }
+  #footer{
+   padding: 10px;
+  }
+ 
