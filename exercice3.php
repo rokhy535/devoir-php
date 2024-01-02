@@ -24,7 +24,7 @@ for ($tirage = 1; $tirage <= 1000; $tirage++) {
     ?>
     <form action="" method="post">
       Veillez ecrir un nombre a trois chiffre  <input type="text" name="number" id="number">
-      <input type="text" name="submit" value="submit">
+      <input type="submit" name="submit" value="submit">
     </form>
 </body>
 </html>
